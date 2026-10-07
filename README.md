@@ -74,6 +74,8 @@ I brainstorm and build interactive, useful mobile and web apps with **Flutter**,
 
 <p align="center">
   <i>A new cat shows up here every day. Come back tomorrow! 🐾</i>
+  <br>
+  <sub>Photos from <a href="https://thecatapi.com">TheCatAPI</a></sub>
 </p>
 
 ---
