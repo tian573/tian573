@@ -1,0 +1,31 @@
+name: Cat of the Day
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-cat:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch a new cat
+        run: |
+          mkdir -p assets
+          URL=$(curl -s "https://api.thecatapi.com/v1/images/search?mime_types=jpg" | jq -r '.[0].url')
+          curl -sL "$URL" -o assets/cat-of-the-day.jpg
+
+      - name: Commit the new cat
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/cat-of-the-day.jpg
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: new cat of the day"
+            git push
+          fi
