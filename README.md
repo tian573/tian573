@@ -4,7 +4,7 @@
 
 I brainstorm and build interactive, useful mobile and web apps with **Flutter**, **Next.js**, **Laravel** and **Firebase**, from the UI people tap to the backend that powers it. I'm passionate about building tech that helps communities around the world. Let's help everyone, together! 🌍
 
-📫 **Reach me:** [tianlauren8@gmail.com](mailto:tianlauren8@gmail.com) · [LinkedIn](https://www.linkedin.com/in/christian-l-191904317/) 
+📫 **Reach me:** [tianlauren8@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=tianlauren8@gmail.com) · [LinkedIn](https://www.linkedin.com/in/christian-l-191904317/) 
 
 ---
 
