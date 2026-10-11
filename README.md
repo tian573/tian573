@@ -1,6 +1,6 @@
 # Hi, I'm Christian Lauren Samuel (Tian) 👋
 
-**Fullstack developer** & **Product Engineer** based in Jakarta, Indonesia 🇮🇩
+5th Semester CS Student at Binus University
 
 I brainstorm and build interactive, useful mobile and web. From the UI people tap to the backend that powers it. I'm passionate about building tech that helps communities around the world. Let's help everyone, together! 🌍
 
@@ -12,13 +12,13 @@ I brainstorm and build interactive, useful mobile and web. From the UI people ta
 
 **Mobile & Frontend**
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 **Backend**
 
